@@ -1,4 +1,4 @@
-# MolImgDiff
+# :rocket: MolImgDiff
 
 :fire: Implementation of "Diffusion Model for Molecular Generation: An Image Perspective"
 
