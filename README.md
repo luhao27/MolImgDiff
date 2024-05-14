@@ -1,6 +1,6 @@
 # MolImgDiff
 
-Implementation of "Diffusion Model for Molecular Generation: An Image Perspective"
+:fire: Implementation of "Diffusion Model for Molecular Generation: An Image Perspective"
 
 ![](main.jpeg?v=1&type=image)
 
